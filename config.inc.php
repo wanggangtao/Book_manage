@@ -46,5 +46,6 @@ $LOG_config = array(
 $cookie_ADMINID      = PROJECTCODE.'ACID';
 $cookie_ADMINCODE    = PROJECTCODE.'ACCODE';
 $session_ADMINID     = PROJECTCODE.'ASID';
+//测试版怎么使用
 
 ?>
